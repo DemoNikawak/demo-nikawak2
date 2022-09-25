@@ -1,1 +1,1 @@
-fist line for the first file
+first line for the first file
